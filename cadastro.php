@@ -35,7 +35,7 @@
 
                         <label for="senha" class="form-label">Senha</label>
                         <input type="password" class="form-control" name="senha">
-
+                        <br>
                         <input type="submit" class="btn btn-success">                        
                     </div>
                 </form>
@@ -43,11 +43,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
